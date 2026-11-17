@@ -42,24 +42,18 @@
 - 🤖 AI & ML enthusiast passionate about building real-world intelligent systems  
 - 🧠 Focused on **Computer Vision, Deep Learning & LLMs**  
 - ⚡ Working on **Agentic AI & Automation Systems**  
-- 🏥 Building a **Mental Health Platform (MedEase)**  
+- ✨ Working with **Generative AI**  
 - 🧑‍💼 Technical Lead & Problem Solver  
 
 ---
 
 ## 🚀 Projects
 
-### 🛡️ SentinelStream AI – DevOps Governance Agent
-- Multi-agent system (Scout, Lawyer, Fixer) for GitLab CI/CD  
-- Monitors Merge Requests for dependency risks & CVEs  
-- Powered by Gemini & Claude with Plan-and-Execute DAG  
-- Fully deployed on Google Cloud Run  
-
-### 📈 AI F&O Trading System
-- Real-time market prediction for NIFTY/BANKNIFTY options  
-- Microservice architecture with real-time dashboards  
-- Driven by LightGBM & rule-based quant strategies  
-- Incorporates Kelly Criterion risk management  
+### 📧 NebulaMail – AI Email Workspace
+- Intelligent AI email agent & workspace integrated with Gmail API  
+- Built with an agentic workflow using LangChain and LangGraph  
+- Real-time streaming responses powered by FastAPI and Server-Sent Events (SSE)  
+- Modern, responsive interface built with Next.js  
 
 ### 🧠 MedEase – Mental Health Platform
 - Dashboard with personalized insights  
